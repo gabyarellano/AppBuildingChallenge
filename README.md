@@ -3,7 +3,9 @@
 
 ## 1. About the Event
 The App Building Challenge is a 2-hour event in which participating students learn and create a MATLAB App using the MATLAB App Designer to solve a problem.
+
 **The problem statement for the Challenge is released after the App Building Onramp Party.**
+
 **Objective**: Design an innovative app using MATLAB App Designer based on the problem statement. The app should empower users to explore, visualize, and extract meaningful information. It should contain interactive elements and should be visually appealing. The app can be created as quickly as 5 minutes, or one can take their time to polish the app functionality and data analysis methods.
 
 ## 2. Process
